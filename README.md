@@ -11,7 +11,7 @@ Using Tableau I created an interactive visualisation showcasing ammunition stati
 
 Feel free try a (less functional) public version [here](https://public.tableau.com/app/profile/aidan.stocks/viz/AmmoGraph-Themed/AmmoGraphDashboard?publish=yes)!
 
-Also the paper I wrote about the details of it [here](https://drive.google.com/file/d/1vtx8P8xnSeRl-RvrJJ_PnbPBFjhN6EsE/view?usp=sharing).
+For more details read the paper I wrote about it [here](https://drive.google.com/file/d/1vtx8P8xnSeRl-RvrJJ_PnbPBFjhN6EsE/view?usp=sharing).
 
 
 
