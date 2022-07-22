@@ -34,6 +34,14 @@ We used machine learning techniques to analyse various properties of glass as an
 
 
 
+## :globe_with_meridians: Airport Network Analysis
+
+For this project we had to choose a network dataset and analyse its various properties. We chose a dataset of the worlds airports and the connections between them. A fun part of our project was to analyse the unrealistic hypothetical scenario of "which airports would still be above sea level should all of the ice in the world melt". I used the python libraries "networkx" and "cartopy" to create maps that showed which airports would be underwater at different sea-levels:
+
+<img src="https://github.com/woodstr/woodstr/blob/main/images/map0.png" width="45%"></img><img src="https://github.com/woodstr/woodstr/blob/main/images/map20.png" width="45%"></img><img src="https://github.com/woodstr/woodstr/blob/main/images/map40.png" width="45%"></img><img src="https://github.com/woodstr/woodstr/blob/main/images/map70.png" width="45%"></img>
+
+
+
 ## :angry::smile::cry: Tweet Sentiment Classification
 
 We used machine learning and natural language processing techniques to automate sentiment classification of tweets. We learned two models to predict whether a tweet contained hate-speech or not, and to predict whether a tweet was of the emotion of anger, joy, optimist or sadness.
