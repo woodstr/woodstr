@@ -39,7 +39,6 @@ We used machine learning techniques to analyse various properties of glass as an
 For this project we had to choose a network dataset and analyse its various properties. We chose a dataset of the worlds airports and the connections between them. A fun part of our project was to analyse the unrealistic hypothetical scenario of "which airports would still be above sea level should all of the ice in the world melt". I used the python libraries "networkx" and "cartopy" to create maps that showed which airports would be underwater at different sea-levels:
 
 ![Network Analysis Showcase](https://github.com/woodstr/woodstr/blob/main/gifs/network-analysis-showcase.gif)
-(The sea levels above range from current sea level, 20m increase, 40m increase, and 70m increase)
 
 Notice how many of the coastal airports become submerged (red) and how many of the connections are lost!
 
