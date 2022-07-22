@@ -1,7 +1,7 @@
 # Projects I've worked on during my studies (and links to their repositories :wink:)
 
 NOTE: The projects are ordered from most recently completed to oldest. <br>
-DISCLOSURE: My Data Science course puts heavy focus on groupwork, therefore these projects are all collaborative and I have worked on them in varying degrees.
+DISCLOSURE: My Data Science course puts heavy focus on groupwork, therefore most of these projects are collaborative where I have worked on them in varying degrees. Only the data visualization is fully mine.
 
 ## :chart_with_upwards_trend: Data Visualisation Project
 
