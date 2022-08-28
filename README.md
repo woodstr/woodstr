@@ -1,4 +1,4 @@
-# Projects I've worked on during my studies (and links to their repositories :wink:)
+# Projects I've worked on during my studies (and links to their repositories)
 
 NOTE: The projects are ordered from most recently completed to oldest. <br>
 DISCLOSURE: My Data Science course puts heavy focus on groupwork, therefore most of these projects are collaborative where I have worked on them in varying degrees. Only the data visualization is fully mine.
