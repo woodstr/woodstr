@@ -3,6 +3,26 @@
 NOTE: The projects are ordered from most recently completed to oldest. <br>
 DISCLOSURE: My Data Science course puts heavy focus on groupwork, therefore most of these projects are collaborative where I have worked on them in varying degrees. Only the data visualization is fully mine.
 
+## Bachelor Project - Measuring polarization in Subreddits
+
+For my bachelor project I worked with two other students to measure how polarized subreddits are. We used a Python library (PRAW) to scrape user data within subreddits, then we created networks of the users based on which users replied to other users posts. We used pre-trained word embeddings to characterize the users based on their posts, and a pre-trained sentiment classifier to measure the sentiments of comments made to posts. Using the network structure, these interactions, and some clever algorithms, we measured whether users with differing characteristics interacted more positively or negatively than users with similar characteristics. In this way, we found that some subreddits were more polarized than others, and that some were much more similar than we initially thought. The graph below shows our main results.
+
+![Bachelor Project Showcase](https://github.com/woodstr/woodstr/blob/main/images/scatter.png)
+
+ - [Repo](https://github.com/hugzito/bachelor_project)
+ - [Report](https://github.com/hugzito/bachelor_project/blob/main/Bachelor_Project.pdf)
+
+
+
+## :bird: DevOps MiniTwit Project
+
+My group of 5 students was given an outdated Twitter-like website, where we had to work collaboratively to update it to modern standards. To do this we used GitHub and its CI/CD, secrets, kanban board and other features. We also had quality gates through SonarCloud, Snyk, and MegaLinter. We used Django (Python) for the backend of the website, and Docker and Docker Hub to containerize it. We hosted it on DigitalOcean (An IaaS cloud service), but sadly due to the cost of hosting it we have since "destroyed" our "droplets".
+
+ - [Repo](https://github.com/FiveGuys-DevOps/MiniTwit)
+ - [Report](https://github.com/FiveGuys-DevOps/exam-report/blob/fc480fd6f2ee33a79e2a907df622076c029913d3/build/BSc_group_h.pdf)
+
+
+
 ## :chart_with_upwards_trend: Data Visualisation Project
 
 Using Tableau I created an interactive visualisation showcasing ammunition statistics from the videogame "Escape from Tarkov".
@@ -19,7 +39,7 @@ For more details read the paper I wrote about it [here](https://drive.google.com
 
 For this project, we investigated a method of training a model on multiple domains to then predict on an unseen domain. For this we used review data from multiple different domains such as Amazon. We wanted to see how we could choose different amounts of each training domain to train on in order to get better performance on the test domain, and we ended up finding a couple different methods of preprocessing that effectively boosted the performance of our model by up to a 5% increase in accuracy.
 
- - [Repo](https://github.com/hugzito/2nd_year_project_group13) (no description)
+ - [Repo](https://github.com/hugzito/2nd_year_project_group13)
  - [Report](https://drive.google.com/file/d/1ZnKUj-_UZbtwQbXMLdmGm10naod1SQBu/view?usp=sharing)
 
 
@@ -69,8 +89,6 @@ We investigated the effects of weather on the spread of Covid-19 in Germany by a
 
  - [Repo](https://github.com/jonas-mika/covid19-analysis)
  - [Report](https://drive.google.com/file/d/14LGWbN8rWumDQ92pwLWQDk_gyb90EkpJ/view?usp=sharing)
-
-
 
 ## :bicyclist::collision::car::dash: Road Collision Analysis of Leeds
 
