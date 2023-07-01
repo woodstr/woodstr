@@ -3,7 +3,7 @@
 NOTE: The projects are ordered from most recently completed to oldest. <br>
 DISCLOSURE: My Data Science course puts heavy focus on groupwork, therefore most of these projects are collaborative where I have worked on them in varying degrees. Only the data visualization is fully mine.
 
-## Bachelor Project - Measuring polarization in Subreddits
+## :alien: Bachelor Project - Measuring polarization in Subreddits
 
 For my bachelor project I worked with two other students to measure how polarized subreddits are. We used a Python library (PRAW) to scrape user data within subreddits, then we created networks of the users based on which users replied to other users posts. We used pre-trained word embeddings to characterize the users based on their posts, and a pre-trained sentiment classifier to measure the sentiments of comments made to posts. Using the network structure, these interactions, and some clever algorithms, we measured whether users with differing characteristics interacted more positively or negatively than users with similar characteristics. In this way, we found that some subreddits were more polarized than others, and that some were much more similar than we initially thought. The graph below shows our main results.
 
